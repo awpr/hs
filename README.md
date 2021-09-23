@@ -108,11 +108,11 @@ Have fun refreshing the `README.md` lots of times.
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/portray-diff-quickcheck?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/portray-diff-quickcheck?cache=600)
 
-# [rle](https://github.com/google/hs-rle)
+# [niche-containers](https://github.com/google/hs-niche-containers)
 
-[![Stack CI](https://github.com/google/hs-rle/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-rle/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-rle)](https://github.com/google/hs-rle/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-rle)](https://github.com/google/hs-rle/issues)
+[![Stack CI](https://github.com/google/hs-niche-containers/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-niche-containers/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/google/hs-niche-containers)](https://github.com/google/hs-niche-containers/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/google/hs-niche-containers)](https://github.com/google/hs-niche-containers/issues)
 
 * [![rle](https://badgen.net/runkit/awpr/hackage/v/rle?icon=haskell&cache=600)](https://hackage.haskell.org/package/rle)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/rle?cache=600)
