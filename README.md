@@ -2,41 +2,41 @@
 
 Have fun refreshing the `README.md` lots of times.
 
-# [attenuation](https://github.com/google/hs-attenuation)
+# [attenuation](https://github.com/awpr/attenuation)
 
-[![Stack CI](https://github.com/google/hs-attenuation/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-attenuation/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-attenuation)](https://github.com/google/hs-attenuation/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-attenuation)](https://github.com/google/hs-attenuation/issues)
+[![Stack CI](https://github.com/awpr/attenuation/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/attenuation/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/attenuation)](https://github.com/awpr/attenuation/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/attenuation)](https://github.com/awpr/attenuation/issues)
 
 * [![attenuation](https://badgen.net/runkit/awpr/hackage/v/attenuation?icon=haskell&cache=600)](https://hackage.haskell.org/package/attenuation)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/attenuation?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/attenuation?cache=600)
 
-# [batching](https://github.com/google/hs-batching)
+# [batching](https://github.com/awpr/batching)
 
-[![Stack CI](https://github.com/google/hs-batching/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-batching/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-batching)](https://github.com/google/hs-batching/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-batching)](https://github.com/google/hs-batching/issues)
+[![Stack CI](https://github.com/awpr/batching/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/batching/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/batching)](https://github.com/awpr/batching/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/batching)](https://github.com/awpr/batching/issues)
 
 * [![batching](https://badgen.net/runkit/awpr/hackage/v/batching?icon=haskell&cache=600)](https://hackage.haskell.org/package/batching)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/batching?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/batching?cache=600)
 
-# [collate](https://github.com/google/hs-collate)
+# [collate](https://github.com/awpr/collate)
 
-[![Stack CI](https://github.com/google/hs-collate/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-collate/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-collate)](https://github.com/google/hs-collate/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-collate)](https://github.com/google/hs-collate/issues)
+[![Stack CI](https://github.com/awpr/collate/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/collate/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/collate)](https://github.com/awpr/collate/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/collate)](https://github.com/awpr/collate/issues)
 
 * [![collate](https://badgen.net/runkit/awpr/hackage/v/collate?icon=haskell&cache=600)](https://hackage.haskell.org/package/collate)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/collate?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/collate?cache=600)
 
-# [dependent-literals](https://github.com/google/hs-dependent-literals)
+# [dependent-literals](https://github.com/awpr/dependent-literals)
 
-[![Stack CI](https://github.com/google/hs-dependent-literals/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-dependent-literals/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-dependent-literals)](https://github.com/google/hs-dependent-literals/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-dependent-literals)](https://github.com/google/hs-dependent-literals/issues)
+[![Stack CI](https://github.com/awpr/dependent-literals/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/dependent-literals/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/dependent-literals)](https://github.com/awpr/dependent-literals/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/dependent-literals)](https://github.com/awpr/dependent-literals/issues)
 
 * [![numeric-kinds](https://badgen.net/runkit/awpr/hackage/v/numeric-kinds?icon=haskell&cache=600)](https://hackage.haskell.org/package/numeric-kinds)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/numeric-kinds?cache=600)
@@ -51,11 +51,11 @@ Have fun refreshing the `README.md` lots of times.
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/dependent-literals-plugin?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/dependent-literals-plugin?cache=600)
 
-# [fin-vec](https://github.com/google/hs-fin-vec)
+# [fin-vec](https://github.com/awpr/fin-vec)
 
-[![Stack CI](https://github.com/google/hs-fin-vec/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-fin-vec/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-fin-vec)](https://github.com/google/hs-fin-vec/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-fin-vec)](https://github.com/google/hs-fin-vec/issues)
+[![Stack CI](https://github.com/awpr/fin-vec/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/fin-vec/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/fin-vec)](https://github.com/awpr/fin-vec/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/fin-vec)](https://github.com/awpr/fin-vec/issues)
 
 * [![sint](https://badgen.net/runkit/awpr/hackage/v/sint?icon=haskell&cache=600)](https://hackage.haskell.org/package/sint)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/sint?cache=600)
@@ -73,21 +73,21 @@ Have fun refreshing the `README.md` lots of times.
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/finite-table?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/finite-table?cache=600)
 
-# [numeric-logarithms](https://github.com/google/hs-numeric-logarithms)
+# [numeric-logarithms](https://github.com/awpr/numeric-logarithms)
 
-[![Stack CI](https://github.com/google/hs-numeric-logarithms/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-numeric-logarithms/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-numeric-logarithms)](https://github.com/google/hs-numeric-logarithms/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-numeric-logarithms)](https://github.com/google/hs-numeric-logarithms/issues)
+[![Stack CI](https://github.com/awpr/numeric-logarithms/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/numeric-logarithms/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/numeric-logarithms)](https://github.com/awpr/numeric-logarithms/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/numeric-logarithms)](https://github.com/awpr/numeric-logarithms/issues)
 
 * [![numeric-logarithms](https://badgen.net/runkit/awpr/hackage/v/numeric-logarithms?icon=haskell&cache=600)](https://hackage.haskell.org/package/numeric-logarithms)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/numeric-logarithms?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/numeric-logarithms?cache=600)
 
-# [portray](https://github.com/google/hs-portray)
+# [portray](https://github.com/awpr/portray)
 
-[![Stack CI](https://github.com/google/hs-portray/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-portray/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-portray)](https://github.com/google/hs-portray/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-portray)](https://github.com/google/hs-portray/issues)
+[![Stack CI](https://github.com/awpr/portray/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/portray/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/portray)](https://github.com/awpr/portray/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/portray)](https://github.com/awpr/portray/issues)
 
 * [![portray](https://badgen.net/runkit/awpr/hackage/v/portray?icon=haskell&cache=600)](https://hackage.haskell.org/package/portray)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/portray?cache=600)
@@ -108,21 +108,21 @@ Have fun refreshing the `README.md` lots of times.
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/portray-diff-quickcheck?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/portray-diff-quickcheck?cache=600)
 
-# [niche-containers](https://github.com/google/hs-niche-containers)
+# [niche-containers](https://github.com/awpr/niche-containers)
 
-[![Stack CI](https://github.com/google/hs-niche-containers/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-niche-containers/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-niche-containers)](https://github.com/google/hs-niche-containers/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-niche-containers)](https://github.com/google/hs-niche-containers/issues)
+[![Stack CI](https://github.com/awpr/niche-containers/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/niche-containers/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/niche-containers)](https://github.com/awpr/niche-containers/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/niche-containers)](https://github.com/awpr/niche-containers/issues)
 
 * [![rle](https://badgen.net/runkit/awpr/hackage/v/rle?icon=haskell&cache=600)](https://hackage.haskell.org/package/rle)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/rle?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/rle?cache=600)
 
-# [ten](https://github.com/google/hs-ten)
+# [ten](https://github.com/awpr/ten)
 
-[![Stack CI](https://github.com/google/hs-ten/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-ten/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-ten)](https://github.com/google/hs-ten/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-ten)](https://github.com/google/hs-ten/issues)
+[![Stack CI](https://github.com/awpr/ten/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/ten/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/ten)](https://github.com/awpr/ten/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/ten)](https://github.com/awpr/ten/issues)
 
 * [![ten](https://badgen.net/runkit/awpr/hackage/v/ten?icon=haskell&cache=600)](https://hackage.haskell.org/package/ten)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/ten?cache=600)
@@ -134,11 +134,11 @@ Have fun refreshing the `README.md` lots of times.
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/ten-unordered-containers?cache=600)
   ![Haddock](https://badgen.net/runkit/awpr/hackage/d/ten-unordered-containers?cache=600)
 
-# [wrapped](https://github.com/google/hs-wrapped)
+# [wrapped](https://github.com/awpr/wrapped)
 
-[![Stack CI](https://github.com/google/hs-wrapped/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/google/hs-wrapped/actions/workflows/stack-ci.yml)
-[![Open PRs](https://badgen.net/github/open-prs/google/hs-wrapped)](https://github.com/google/hs-wrapped/pulls)
-[![Open Issues](https://badgen.net/github/open-issues/google/hs-wrapped)](https://github.com/google/hs-wrapped/issues)
+[![Stack CI](https://github.com/awpr/wrapped/actions/workflows/stack-ci.yml/badge.svg)](https://github.com/awpr/wrapped/actions/workflows/stack-ci.yml)
+[![Open PRs](https://badgen.net/github/open-prs/awpr/wrapped)](https://github.com/awpr/wrapped/pulls)
+[![Open Issues](https://badgen.net/github/open-issues/awpr/wrapped)](https://github.com/awpr/wrapped/issues)
 
 * [![wrapped](https://badgen.net/runkit/awpr/hackage/v/wrapped?icon=haskell&cache=600)](https://hackage.haskell.org/package/wrapped)
   ![Uploaded](https://badgen.net/runkit/awpr/hackage/t/wrapped?cache=600)
