@@ -1,11 +1,11 @@
 Link to repo
 
-ciW[+](htpp€kb€kbtps://github.com/google/hs-+)
+ciW[+](htpp€kb€kbtps://github.com/awpr/+)
 
 Open PRs badge
 
-wlyi]}}O[![Open PRs](https://badgen.net/github/open-prs/google/hs-+)](https://github.com/google/hs-+/pulls)kkJn
+wlyi]}}O[![Open PRs](https://badgen.net/github/open-prs/awpr/+)](https://github.com/awpr/+/pulls)kkJn
 
 Open Issues badge
 
-wlyi]}}O[![Open Issues](https://badgen.net/github/open-issues/google/hs-+)](https://github.com/google/hs-+/issues)kkJn
+wlyi]}}O[![Open Issues](https://badgen.net/github/open-issues/awpr/+)](https://github.com/awpr/+/issues)kkJn
